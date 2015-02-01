@@ -18,6 +18,9 @@ Ensuite il faut définir le dépot GitHub existant sur lequel nous travaillerons
 "git clone url_dépot_github"
 Enfin il suffit d'utiliser les mêmes commandes que décrites précédemment.
 
-Créer un projet sur GitHub : 
+Il peut être demandé de faire des configurations d'utilisateurs.
+Pour ceci faîtes :
+"git config user.email "email""
+"git config user.name "nom""
 
 
