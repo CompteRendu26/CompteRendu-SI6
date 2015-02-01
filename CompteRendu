@@ -1,3 +1,23 @@
-Compte rendu : LPIJSDLKJHDS
+Créer un projet à partir du dépot git local :
+
+Tout d'abord il faut initialiser l'emplacement du dépot git local avec la commande :
+"git init"
+Ensuite il faut indexer un fichier au dépot git : 
+"git add fichier"
+Puis il faut valider la modification du dépot :
+"git commit "commentaire""
+Enfin il faut définir le dépot GitHub dans lequel les fichiers seront transférés puis pousser ces fichiers :
+"git remote add origin url_dépot_github"
+"git push origin master"
+
+Créer un clone d'un projet existant sur GitHub :
+
+Tout d'abord il faut initialiser l'emplacement du dépot git local avec la commande :
+"git init"
+Ensuite il faut définir le dépot GitHub existant sur lequel nous travaillerons :
+"git clone url_dépot_github"
+Enfin il suffit d'utiliser les mêmes commandes que décrites précédemment.
+
+Créer un projet sur GitHub : 
 
 
